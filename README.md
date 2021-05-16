@@ -3,4 +3,4 @@ The aim of this project is majorly to make it’s reader to aware of the situati
 
 After gathering all of details, we made four different user stories according to the different age groups and keeping those in mind we worked out a solution of developing an application, which will offer a brief knowledge of the city centre i.e. opening hours of stores, redirections to store websites or apps etc., events that will take place in Venray (weekly, monthly or yearly overview) with availability of notification option. Also, we would want to collaborate with stores to add discount vouchers to this app, which will only be valid in store, and a way to save up discount in stores the more you buy in the actual store.
 
-The file:[Venray app.rar](Venray app.rar) can be extracted manually which consits the final product.
+The file:[Venray app.rar](https://github.com/A-shukla12/Venray_Bloeit/blob/8416b400849ec0b4ada0a39db404e9cf12e49d36/Venray%20app.rar) can be extracted manually which consits the final product.
